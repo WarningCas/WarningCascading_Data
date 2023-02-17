@@ -1,0 +1,14 @@
+102,quotearg.c,315
+1161,quotearg.c,435
+1009,parser.c,3112
+667,regex_internal.c,691
+276,regexec.c,3081
+592,hash.c,650
+489,parser.c,3035
+1203,parser.c,3036
+1290,nextelem.c,67
+1292,tree.c,103
+1288,tree.c,1130
+1301,ftsfind.c,507
+1326,printquoted.c,74
+1325,util.c,632
