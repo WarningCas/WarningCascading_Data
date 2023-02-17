@@ -13,7 +13,9 @@ The real-world warnings that Static analysis tool directly generated is save at 
 
 The we have the real-word result saved in the [real-world-set-result](https://github.com/WarningCas/WarningCascading_Data/tree/master/warnings_sqlite).
 
-The &lt benchmark &gt
+The &lt; benchmark &gt;.&lt; verison &gt;-match.txt represent Hydrogen result that detected as 'same bug' (match) where &lt; benchmark &gt;.&lt; version &gt;-unmatch.txt represent 'bug fix' (unmatch) for Hydrogen.
+
+
 
 The table we used to record the running result of each tool is Experiments_result.xlsx
 
